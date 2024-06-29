@@ -36,10 +36,12 @@ This is a full-stack application that allows users to upload PDF documents and a
 3. Create a virtual environment and activate it:
 
 python -m venv venv
-source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+source venv/bin/activate 
+
 3. Install the required dependencies:
 
 pip install -r requirements.txt
+
 4. Run the FastAPI application:
 
 uvicorn app.main:app --reload
