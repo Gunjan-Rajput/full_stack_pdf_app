@@ -31,8 +31,9 @@ This is a full-stack application that allows users to upload PDF documents and a
 ### Backend
 
 1. **Navigate to the `backend` directory**:
+   
    cd backend
-2. Create a virtual environment and activate it:
+3. Create a virtual environment and activate it:
 
 python -m venv venv
 source venv/bin/activate  # On Windows use `venv\Scripts\activate`
