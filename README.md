@@ -25,4 +25,3 @@ This is a full-stack application that allows users to upload PDF documents and a
 - **Displaying Answers**:
   - The application displays the answer to the user’s question.
   - Users can ask follow-up or new questions on the same document.
-
